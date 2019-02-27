@@ -1,0 +1,6 @@
+Open config file to setup your data base:
+
+admin url: dash/
+admin Token: 123456789
+
+Other function still constructing, maybe till further notice
